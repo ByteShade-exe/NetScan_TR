@@ -24,3 +24,4 @@ pip3 install colorama requests
 initialization- başlatma
 ```bash
 python3 main.py
+python main.py
