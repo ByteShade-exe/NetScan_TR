@@ -26,10 +26,6 @@ initialization- başlatma
 python3 main.py
 python main.py
 
-Tabii Kerem, işte sitende veya projende kullanabileceğin iki dilde “sorumluluk reddi” metni. Hem sade hem profesyonel dursun istedim:
-
----
-
 ## 🛡️ Sorumluluk Reddi
 
 Bu proje sadece eğitim ve etik kullanım amacıyla sunulmuştur. Sağlanan bilgilerden ve araçlardan doğabilecek herhangi bir yasal, teknik veya kişisel sonuçtan geliştirici(ler) sorumlu tutulamaz. Kullanıcı, aracı kendi sorumluluğu altında kullanmayı kabul eder.
