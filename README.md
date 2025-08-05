@@ -25,3 +25,15 @@ initialization- başlatma
 ```bash
 python3 main.py
 python main.py
+
+Tabii Kerem, işte sitende veya projende kullanabileceğin iki dilde “sorumluluk reddi” metni. Hem sade hem profesyonel dursun istedim:
+
+---
+
+## 🛡️ Sorumluluk Reddi
+
+Bu proje sadece eğitim ve etik kullanım amacıyla sunulmuştur. Sağlanan bilgilerden ve araçlardan doğabilecek herhangi bir yasal, teknik veya kişisel sonuçtan geliştirici(ler) sorumlu tutulamaz. Kullanıcı, aracı kendi sorumluluğu altında kullanmayı kabul eder.
+
+## 🛡️ Disclaimer
+
+This project is provided solely for educational and ethical use. The developer(s) shall not be held liable for any legal, technical, or personal consequences resulting from the use of the tools or information provided. The user agrees to use the tool at their own risk.
